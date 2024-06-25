@@ -1,0 +1,8 @@
+# 忽略所有配置文件
+*.config
+*.conf
+*.ini
+
+# 忽略 Python 编译文件
+*.pyc
+
